@@ -1,4 +1,4 @@
-# Computer-Vision-Object-Size-Measuring
+# Inferring-Object-Size
 
 ## Computer Vision Program to Measure the Width and Height of objects on the picture
 
