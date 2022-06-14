@@ -2,8 +2,10 @@
 
 ## Computer Vision Program to Measure the Width and Height of objects on the picture
 
-Requirements: Build and Install OpenCV
+### Requirements: 
+Build and Install OpenCV
 
+### About
 The system works by placing a reference object of known size on to the image.
 Note that the reference object should be the left most object on the image.
 We use the object to calculate a pixels per metric constant [pixels/mm],
